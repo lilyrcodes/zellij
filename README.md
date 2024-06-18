@@ -1,0 +1,2 @@
+# zellij
+Zellij configuration
